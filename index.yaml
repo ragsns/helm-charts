@@ -4,7 +4,7 @@ entries:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-04-01T19:28:21.512184-04:00"
-    description: A Helm chart for Kubernetes
+    description: A Helm chart for Kubernetes by Rags
     digest: 2410d06cfc48477f254e429800838831dfffffb05111d762418c687c52702471
     name: helm-chart-test
     type: application
