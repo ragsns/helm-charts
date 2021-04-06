@@ -1,4 +1,4 @@
-Placeholder for Helm Charts help
+Placeholder for Helm Charts help from Rags
 
 Use the repo at
 
